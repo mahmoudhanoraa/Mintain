@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "183381707625",
+    "firebase_url": "https://mintain-9b8f4.firebaseio.com",
+    "project_id": "mintain-9b8f4",
+    "storage_bucket": "mintain-9b8f4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:183381707625:android:b7c6f61401428f2f",
+        "android_client_info": {
+          "package_name": "com.initpointdk.mintain_v1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "183381707625-1fjptonkhe95n60520v608shtadbv3l3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.initpointdk.mintain_v1",
+            "certificate_hash": "37b4023223aaa723338ac470e9f403272ae5befa"
+          }
+        },
+        {
+          "client_id": "183381707625-t5efv6rs48k9v9kvj9030jgqdq6mjg8d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaHAKkgwAclrSFrIzcexOrMwNRfGGpYGs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "183381707625-t5efv6rs48k9v9kvj9030jgqdq6mjg8d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
